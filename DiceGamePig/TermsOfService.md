@@ -1,10 +1,15 @@
 [[ 中文版 ]](#part-one) [[ English Version ]](#part-two)
 
----
+&nbsp;
+
 <a id="part-one"></a>
-## 【**小豬骰子 -** 使用者條款】[中文版]
----
+
+# **【小豬骰子 - 使用者條款】**【中文版】
+
 發布日期：2025 年 11 月 12 日
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### 第一條：條款接受與範圍
 
@@ -60,13 +65,19 @@
 - **電子郵件地址：**  ladyrk.kcrk@gmail.com
 
 
+&nbsp;
+&nbsp;
+&nbsp;
 
----
 <a id="part-two"></a>
-## 【**DiceGamePig -** Terms of Service】[English Version]
----
+
+
+# **【DiceGamePig - Terms of Service】**【English Version】
 
 Publication date: November 12, 2025
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Section 1: Acceptance and Scope of Terms
 
@@ -120,3 +131,6 @@ If you have any questions regarding these Terms of Service, please contact us at
 
 - **Developer Name: LadyRK (**CHIH WEI CHANG)
 - **Email Address:**  ladyrk.kcrk@gmail.com
+
+&nbsp;
+&nbsp;
