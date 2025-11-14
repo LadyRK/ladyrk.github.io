@@ -19,7 +19,7 @@
 
 **請注意：本應用程式是單機遊戲，不要求登入，不使用我們的伺服器儲存任何使用者自製的對話或個人資料。**
 
-&nbsp;
+
 
 ### 一、我們收集的資訊類型及處理方式
 
@@ -38,7 +38,7 @@
 | **廣告數據** | 在您同意的情況下，用於展示個人化廣告及衡量廣告活動效果。若您拒絕，則僅顯示非個人化廣告。 | 廣告識別碼及廣告互動記錄。 |
 | **交易數據** | 處理和驗證遊戲內購交易。 | 購買內容、購買時間。 |
 
-&nbsp;
+
 
 ### 二、資訊的處理目的與法律依據 (針對全球用戶)
 
@@ -51,7 +51,7 @@
 | **處理交易** (驗證內購) | **履行合約所需** (處理您的購買請求) |
 | **安全與合規** (防欺詐、應對法律請求) | **我們的合法利益** / **法律義務** |
 
-&nbsp;
+
 
 ### 三、資料共享與揭露
 
@@ -63,7 +63,7 @@
 
 我們與這些第三方服務共享數據的目的僅限於實現功能。我們不會出售您的任何數據。此外，我們可能會在符合法律規定、司法機關或行政機關的要求下，揭露您的資訊。
 
-&nbsp;
+
 
 ### 四、全球數據傳輸聲明
 
@@ -71,7 +71,7 @@
 
 透過使用本應用程式，您同意此類數據傳輸。我們承諾將採取所有必要的步驟，確保您的數據依照本隱私政策及適用法律得到安全處理（例如，透過實施標準合約條款 Standard Contractual Clauses, SCCs）。
 
-&nbsp;
+
 
 ### 五、兒童隱私權保護承諾
 
@@ -81,7 +81,7 @@
 
 我們已配置我們的廣告服務（AdMob）和分析服務（Firebase）以**禁用個人化廣告**和**限制數據收集**，確保不收集或使用 13 歲（或適用地區的法定年齡）以下兒童的個人識別資訊，以嚴格遵守所有適用的兒童隱私法規（如 COPPA 和 GDPR-K）。
 
-&nbsp;
+
 
 ### 六、您的權利與選擇 (GDPR / CCPA)
 
@@ -94,14 +94,13 @@
 - **反對權：** 您有權反對我們基於「合法利益」處理您的數據。
 - **CCPA/CPRA 聲明：** 我們不會出售或分享您依據 CCPA/CPRA 所定義的個人資訊。
 
-&nbsp;
 
 ### 七、資料安全與在地儲存
 
 - **本地儲存：** 您的所有自製遊戲對話內容**只儲存於您的 iOS 設備本地**。如果您刪除 App，這些本地儲存的內容也會被移除，我們無法復原。
 - **數據安全：** 我們採取合理的技術與組織安全措施來保護收集到的技術資訊。
 
-&nbsp;
+
 
 ### 八、政策變更與聯繫方式
 
@@ -132,7 +131,7 @@ Publication date: November 12, 2025
 
 **Please Note:** This App is a single-player, offline-first game. It does not require user login, and we do not use our servers to store any user-created content (dialogue) or personal data.
 
-&nbsp;
+
 
 ### I. Information We Collect and Process
 
@@ -149,7 +148,7 @@ We automatically collect only the following categories of **non-personal technic
 | **Advertising Data** | Used, with your consent, to show personalized ads and measure ad effectiveness. If you decline tracking, only non-personalized ads are shown. | Advertising Identifier (e.g., IDFA) and ad interaction records. |
 | **Transaction Data** | To process and validate in-app purchases. | Details of items purchased and time of purchase. |
 
-&nbsp;
+
 
 ### II. Legal Basis for Processing (For Global Users)
 
@@ -162,7 +161,7 @@ For our global users, particularly those in the European Economic Area (EEA), we
 | **Transaction Processing** (Validating purchases) | **Necessity for Contract Performance** (Fulfilling your purchase request) |
 | **Security & Compliance** (Fraud prevention, legal requests) | **Our Legitimate Interests** / **Legal Obligation** |
 
-&nbsp;
+
 
 ### III. Data Sharing and Disclosure
 
@@ -174,7 +173,7 @@ Your non-personal technical data is shared with the following third-party servic
 
 We will not sell or rent your data. We may also disclose information when required to do so by law, court order, or governmental request.
 
-&nbsp;
+
 
 ### IV. Global Data Transfer Statement
 
@@ -182,7 +181,7 @@ This App is offered to global users. Processing your information may involve tra
 
 By using the App, you consent to such data transfer. We take all reasonable steps to ensure your data is treated securely, including using standard contractual clauses (SCCs) where required by law.
 
-&nbsp;
+
 
 ### V. Children's Privacy Commitment (COPPA / GDPR-K)
 
@@ -190,7 +189,7 @@ Since this App is categorized as a **dice game suitable for all ages**, we stric
 
 We have configured our advertising (AdMob) and analytics (Firebase) services to **disable personalized advertising** and **limit data collection** for all users, particularly those under the age of 13 (or the relevant legal age), ensuring no PII is knowingly collected from children.
 
-&nbsp;
+
 
 ### VI. Your Rights and Choices (GDPR / CCPA)
 
@@ -204,14 +203,14 @@ As a user, you have rights regarding your data:
 
 To exercise these rights, please contact us using the details below.
 
-&nbsp;
+
 
 ### VII. Data Security and Local Storage
 
 - **Local Storage:** All your custom game dialogue content is **stored only on your local iOS device**. We cannot retrieve this content. If you delete the App, this local content will also be removed.
 - **Data Security:** We implement reasonable technical and organizational security measures to protect the technical information we collect.
 
-&nbsp;
+
 
 ### VIII. Changes to This Policy and Contact Information
 
@@ -221,5 +220,6 @@ If you have any questions, comments, or concerns about this Privacy Policy, or w
 
 - **Developer Name:** LadyRK (CHIH WEI CHANG)
 - **Email Address:** ladyrk.kcrk@gmail.com
+
 &nbsp;
 &nbsp;
