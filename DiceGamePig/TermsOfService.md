@@ -1,13 +1,9 @@
-# 小豬骰子 - 使用者條款
-
-[[ 中文版 ]](https://www.notion.so/2a91298c015a80cf8c08f0d277d07f96?pvs=21) [[ English Version ]](https://www.notion.so/2a91298c015a80cf8c08f0d277d07f96?pvs=21)
+[[ 中文版 ]](#part-one) [[ English Version ]](#part-two)
 
 ---
-
----
-
+<a id="part-one"></a>
 ## 【**小豬骰子 -** 使用者條款】[中文版]
-
+---
 發布日期：2025 年 11 月 12 日
 
 ### 第一條：條款接受與範圍
@@ -63,11 +59,12 @@
 - **開發者名稱：** **LadyRK (**CHIH WEI CHANG)
 - **電子郵件地址：**  ladyrk.kcrk@gmail.com
 
----
+
 
 ---
-
+<a id="part-two"></a>
 ## 【**DiceGamePig -** Terms of Service】[English Version]
+---
 
 Publication date: November 12, 2025
 
