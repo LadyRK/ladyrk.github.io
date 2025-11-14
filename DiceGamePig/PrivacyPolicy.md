@@ -4,16 +4,16 @@
 
 <a id="part-one"></a>
 
----
-## 【**小豬骰子 - 隱私權政策**】【中文版】
----
 
-&nbsp;
+# **【小豬骰子 - 隱私權政策】**【中文版】
+
+
 發布日期：2025 年 11 月 12 日
 &nbsp;
+&nbsp;
+&nbsp;
 
-
-### **引言**
+### 引言
 
 《**小豬骰子**》（以下簡稱「本應用程式」或「我們」）深知隱私權對您的重要性，並致力於保護您的個人資料。本政策旨在說明當您使用我們的行動遊戲應用程式時，我們如何處理資料。
 
@@ -118,13 +118,12 @@
 
 <a id="part-two"></a>
 
----
-## 【**DiceGamePig -** Privacy Policy】【English Version】
----
 
-&nbsp;
+# **【DiceGamePig - Privacy Policy】**【English Version】
+
 Publication date: November 12, 2025
-
+&nbsp;
+&nbsp;
 &nbsp;
 
 ### Introduction
